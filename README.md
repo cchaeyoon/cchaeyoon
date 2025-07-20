@@ -1,4 +1,6 @@
 ## Hello World 👋
+<img src="https://capsule-render.vercel.app/api?type=blur&color=FFB6C1&fontColor=f1a9a9&height=200&section=header&text=cchaeyoon&fontSize=40&blur=true"/>
+
 <div>
 <h3>💪Stacks</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
