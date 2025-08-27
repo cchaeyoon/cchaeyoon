@@ -2,6 +2,21 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&color=FFB6C1&fontColor=f1a9a9&height=200&section=header&text=cchaeyoon&fontSize=40&blur=true"/>
 
 <div>
+<h3>📚 Education</h3>
+
+-  홍익대학교 컴퓨터공학과 (2023.03~now) 
+
+<h3>💼 Experience</h3>
+
+- UMC 8기 Web 수료 (2025.03~2025.08)
+- UMC 9기 Web 파트장 (2025.08~now)
+- UMC 9기 Web (2025.08~now)
+- 2025 홍익대 UMC 해커톤 Web 부문 최우수상
+- LXD (LanguageXchange Diary) 프로젝트 프론트엔드 개발 (2025)
+
+</div>
+
+<div>
 <h3>💪Stacks</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -18,7 +33,9 @@
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </div>
 
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ddanghooni7)](https://solved.ac/ddanghooni7)
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cchaeyoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cchaeyoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
