@@ -8,11 +8,10 @@
 
 <h3>💼 Experience</h3>
 
-- UMC 8기 Web 수료 (2025.03~2025.08)
+- UMC 8기 Web (2025.03~2025.08)
 - UMC 9기 Web 파트장 (2025.08~now)
-- UMC 9기 Web (2025.08~now)
 - 2025 홍익대 UMC 해커톤 Web 부문 최우수상
-- LXD (LanguageXchange Diary) 프로젝트 프론트엔드 개발 (2025)
+- LXD (LanguageXchange Diary) 프로젝트 FE (2025)
 
 </div>
 
