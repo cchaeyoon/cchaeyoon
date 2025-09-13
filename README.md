@@ -8,10 +8,10 @@
 
 <h3>💼 Experience</h3>
 
-- UMC 8기 Web (2025.03~2025.08)
-- UMC 9기 Web 파트장 (2025.08~now)
-- 2025 홍익대 UMC 해커톤 Web 부문 최우수상
-- LXD (LanguageXchange Diary) 프로젝트 FE (2025)
+- HIUMC 8기 Web (2025.03~2025.08)
+- HIUMC 9기 Web 파트장 (2025.08~now)
+- HIUMC 해커톤 Web 부문 최우수상 (2025.06)
+- LXD (LanguageXchange Diary) 프로젝트 FE (2025.06~2025.08)
 
 </div>
 
